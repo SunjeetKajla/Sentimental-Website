@@ -2,6 +2,7 @@ streamlit
 nltk
 matplotlib
 newspaper3k
+lxml[html_clean]
 deep-translator
 langdetect
 textblob
