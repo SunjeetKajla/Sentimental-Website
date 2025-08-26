@@ -15,9 +15,9 @@ import re
 
 # ---------- Website configurations---------------
 st.set_page_config(
-    page_title="My Custom Website Name",  # This changes the tab title
-    page_icon="🌐",                       # Optional: adds an icon to the tab
-    layout="centered"                     # Optional: layout settings
+    page_title="Sentiment Analysis Website",
+    page_icon="🌐",
+    layout="centered"
 )
 
 
