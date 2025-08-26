@@ -1,0 +1,10 @@
+streamlit
+nltk
+matplotlib
+newspaper
+deep-translator
+langdetect
+textblob
+wordcloud
+sumy
+re
