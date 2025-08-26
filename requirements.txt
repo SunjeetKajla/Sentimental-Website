@@ -1,10 +1,9 @@
 streamlit
 nltk
 matplotlib
-newspaper
+newspaper3k
 deep-translator
 langdetect
 textblob
 wordcloud
 sumy
-re
